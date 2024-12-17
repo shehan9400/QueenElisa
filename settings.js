@@ -2,7 +2,7 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 module.exports = {
-  SESSION_ID: '',
+  SESSION_ID: 'QUEENELISA;;;==AM3VVUwQlYu5kRoVUd2NkT3oWUvREbvJFUvZnVjV2QBFDa6RTNWlncht0ajM1NDhGeGlFepwd=34025626749',
   ALIVE_REACT: '👋',
   ALIVE_MESSAGE: `*Hello @name [ And @gname @members Number of Members ] I am Alive Now !*
 
@@ -19,7 +19,7 @@ module.exports = {
 
 Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ`,
   ALIVE_MEDIA: 'https://telegra.ph/file/d842677f522b6bef4dfe6.jpg',
-  MONGODB_URL: '', 
+  MONGODB_URL: 'mongodb://mongo:dHFG-ef6CAFaGf5F1Gf-Cbg6AadbDcff@viaduct.proxy.rlwy.net:11588', 
   PREFIX: '.$&',
   LANGUAGE: 'EN',
   PORT: 3000,
@@ -37,13 +37,13 @@ Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ`,
   MAXIMUM_FILESIZE: 90,
   OWNER_R_EMOJI: '👽',
   ALIVE_AS_GIF: true,
-  AUTO_VOICE: false,
+  AUTO_VOICE: true,
   INBOX_BLOCK: false,
   OWNER_REACT: true,
-  AUTO_REACT: true,
+  AUTO_REACT: false,
   ONLY_PM_GROUP_MSG_SEND: false,
   AUTO_SEEN_STATUS: true,
-  BOT_OFFLINE: false,
+  BOT_OFFLINE: true,
   READ_MESSAGE: false,
   ANTI_MSG_SPAM: false,
   ANTI_BAD_WORD: false,
